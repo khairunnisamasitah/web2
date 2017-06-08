@@ -11,7 +11,7 @@
 
     <title>SB Admin 2 - Bootstrap Admin Theme</title>
 
-    <!-- Bootstrap Core CSS -->
+   <!-- Bootstrap Core CSS -->
     <link href="template/assets/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- MetisMenu CSS -->
@@ -33,9 +33,6 @@
 </head>
 
 <body>
-
-    <div id="wrapper">
-
         <!-- Navigation -->
         <nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">
             <div class="navbar-header">
